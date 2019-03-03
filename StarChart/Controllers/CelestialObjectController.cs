@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using StarChart.Data;
 
-namespace StarChart
+namespace StarChart.Controllers
 {
     [Route("")]
     [ApiController]
